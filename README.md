@@ -10,6 +10,7 @@ Other actions like:
 - Use takkill or Task Manager
 - Attempt to kill the program
 - Open explorer.exe
+- Click the question :)
 Also cause the execution of BSoD
 
 > [!WARNING]
